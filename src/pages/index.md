@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/leaf.jpg
+    background_image: images/pl.jpg
     background_image_opacity: 80
     content: >
       # Novo texto para teste
