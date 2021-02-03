@@ -1,4 +1,4 @@
-para testeimport React from "react"
+import React from "react"
 import PropTypes from "prop-types"
 
 export default function HTML(props) {
